@@ -7,7 +7,7 @@ merge-nar
 * use to upload more easily into other EMC tools
 * make sure not to combine NAR data from both SP's... you'll get duplicated performance stats
 
-INSTALLATION AND USAGE
+Installation and Usage
 ======================
 
 * install mergenar.sh into ~/bin or some such convenient location
